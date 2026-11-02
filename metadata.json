@@ -1,0 +1,6 @@
+{
+  "name": "¿Qué habrías hecho tú? - Millonario",
+  "description": "Ինտերակտիվ իսպաներեն-հայերեն վիկտորինա «Ո՞վ է ուզում դառնալ միլիոնատեր» ոճով (Pasado + Condicional Perfecto)՝ սեղմմամբ թարգմանությամբ և խոսակցական առաջադրանքներով:",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
